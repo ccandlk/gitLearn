@@ -11,7 +11,11 @@ class App extends Component {
           <h1 className="App-title">this is my test</h1>
         </header>
         <p className="App-intro">
-          chx edit <code>src/App.js</code> and save to reload.
+<<<<<<< HEAD
+          chx test rtytugbu <code>src/App.js</code> and save to reload.
+=======
+          To get ddd chx, edit <code>src</code> and save to reload.
+>>>>>>> master
         </p>
       </div>
     );
