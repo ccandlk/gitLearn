@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">this is my test</h1>
+          <h1 className="App-title">this is git test</h1>
         </header>
         <p className="App-intro">
           chx ytyub  <code>src</code> and save to reload.
