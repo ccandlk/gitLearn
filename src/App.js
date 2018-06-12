@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">this is git test</h1>
         </header>
         <p className="App-intro">
-          chx ytyub  <code>src</code> and save to reload.
+          chx ytyub<code>src</code> and save to reload.
         </p>
       </div>
     );
